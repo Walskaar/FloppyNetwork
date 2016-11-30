@@ -1,12 +1,12 @@
 # Floppy Network
-Make pure textfiles and move them to a floppy disc with the use of Pandoc and terminal commands in a python script.
+Make pure textfiles of websites and move them to a floppy disc with the use of Pandoc and terminal commands all in a python script.
 
 "Never underestimate the bandwidth of a station wagon full of floppy discs hurtling down the highway."
 
 More info about Pandoc
 http://pandoc.org/
 
-Use a USB Floppy Drive, find some here
+Best option is to use USB Floppy Drive, you find some here as option.
 http://www.ebay.com/bhp/usb-floppy-drive
 
 

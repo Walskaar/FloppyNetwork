@@ -1,18 +1,5 @@
 # Floppy Network
 
-BBBBBBBBBBBBBBBBBBBBBBBBBBB"
-BMB---------------------BBB"
-BBB----THE--------------BBB"
-BBB----FLOPPY-----------BBB"
-BBB----NETWORKS---------BBB"
-BBB---------------------BBB"
-BBB----V1.6-------------BBB"
-BBBBBBBBBBBBBBBBBBBBBBBBBBB"
-BBBBB++++++++++++++++BBBBBB"
-BBBBB++BBBBB+++++++++BBBBBB"
-BBBBB++BBBBB+++++++++BBBBBB"
-BBBBB++BBBBB+++++++++BBBBBB"
-BBBBB++++++++++++++++BBBBBB"
 
 
 Make pure textfiles of websites and move them to a floppy disc with the use of Pandoc and terminal commands all in a python script. This rule simply converts our book into plain text and upload it into a floppy disk. This simple rule imaginatively subverts the narrative of technological progress that normally drives the discourse in the e-publishing field. 

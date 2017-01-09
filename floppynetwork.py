@@ -22,7 +22,7 @@ print "of a station wagon full of floppy discs"
 print "hurtling down the highway."
 # Pick website, store in your own path and run script. Remember to check name of floppy disc volume
 print
-os.system("pandoc -s -r html http://www.gnu.org/software/make/ -o floppy.text")
+os.system("pandoc -s -r html /URL/ -o floppy.text")
 # HTML to Markdown
 os.system("pandoc floppy.text -o floppy.epub")
 # Markdown to epub
